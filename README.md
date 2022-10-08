@@ -1,0 +1,2 @@
+# lgtm
+Python Practice
